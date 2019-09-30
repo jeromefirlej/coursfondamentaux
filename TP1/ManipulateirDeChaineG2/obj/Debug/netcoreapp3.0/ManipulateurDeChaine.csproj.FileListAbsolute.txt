@@ -1,0 +1,11 @@
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.exe
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.deps.json
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.runtimeconfig.json
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.runtimeconfig.dev.json
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.dll
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\bin\Debug\netcoreapp3.0\ManipulateurDeChaine.pdb
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\obj\Debug\netcoreapp3.0\ManipulateurDeChaine.csprojAssemblyReference.cache
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\obj\Debug\netcoreapp3.0\ManipulateurDeChaine.AssemblyInfoInputs.cache
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\obj\Debug\netcoreapp3.0\ManipulateurDeChaine.AssemblyInfo.cs
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\obj\Debug\netcoreapp3.0\ManipulateurDeChaine.dll
+D:\Cours\Cours fondamentaux\TP1\ManipulateirDeChaineG2\obj\Debug\netcoreapp3.0\ManipulateurDeChaine.pdb
