@@ -1,0 +1,4 @@
+ Invite de commande
+  . répertoire courant
+  .. Réportoire parent
+  cd changer de dossier

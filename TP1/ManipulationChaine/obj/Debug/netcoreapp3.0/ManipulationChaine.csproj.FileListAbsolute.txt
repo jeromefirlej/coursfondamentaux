@@ -1,0 +1,11 @@
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.exe
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.deps.json
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.runtimeconfig.json
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.runtimeconfig.dev.json
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.dll
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\bin\Debug\netcoreapp3.0\ManipulationChaine.pdb
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\obj\Debug\netcoreapp3.0\ManipulationChaine.csprojAssemblyReference.cache
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\obj\Debug\netcoreapp3.0\ManipulationChaine.AssemblyInfoInputs.cache
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\obj\Debug\netcoreapp3.0\ManipulationChaine.AssemblyInfo.cs
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\obj\Debug\netcoreapp3.0\ManipulationChaine.dll
+D:\Cours\Cours fondamentaux\TP1\ManipulationChaine\obj\Debug\netcoreapp3.0\ManipulationChaine.pdb

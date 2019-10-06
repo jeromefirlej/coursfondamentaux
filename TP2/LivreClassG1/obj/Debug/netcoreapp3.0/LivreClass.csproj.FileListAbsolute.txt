@@ -1,0 +1,11 @@
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\obj\Debug\netcoreapp3.0\LivreClass.csprojAssemblyReference.cache
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\obj\Debug\netcoreapp3.0\LivreClass.AssemblyInfoInputs.cache
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\obj\Debug\netcoreapp3.0\LivreClass.AssemblyInfo.cs
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.exe
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.deps.json
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.runtimeconfig.json
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.runtimeconfig.dev.json
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.dll
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\bin\Debug\netcoreapp3.0\LivreClass.pdb
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\obj\Debug\netcoreapp3.0\LivreClass.dll
+D:\Cours\Cours fondamentaux\TP2\LivreClassG1\obj\Debug\netcoreapp3.0\LivreClass.pdb

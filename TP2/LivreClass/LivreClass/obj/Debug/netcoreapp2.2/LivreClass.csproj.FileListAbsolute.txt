@@ -1,0 +1,10 @@
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\bin\Debug\netcoreapp2.2\LivreClass.deps.json
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\bin\Debug\netcoreapp2.2\LivreClass.runtimeconfig.json
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\bin\Debug\netcoreapp2.2\LivreClass.runtimeconfig.dev.json
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\bin\Debug\netcoreapp2.2\LivreClass.dll
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\bin\Debug\netcoreapp2.2\LivreClass.pdb
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\obj\Debug\netcoreapp2.2\LivreClass.csprojAssemblyReference.cache
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\obj\Debug\netcoreapp2.2\LivreClass.AssemblyInfoInputs.cache
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\obj\Debug\netcoreapp2.2\LivreClass.AssemblyInfo.cs
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\obj\Debug\netcoreapp2.2\LivreClass.dll
+D:\Cours\Cours fondamentaux\TP2\LivreClass\LivreClass\obj\Debug\netcoreapp2.2\LivreClass.pdb

@@ -1,0 +1,11 @@
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.exe
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.deps.json
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.runtimeconfig.json
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.runtimeconfig.dev.json
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.dll
+D:\Cours\Cours fondamentaux\TP1\examples\bin\Debug\netcoreapp3.0\examples.pdb
+D:\Cours\Cours fondamentaux\TP1\examples\obj\Debug\netcoreapp3.0\examples.csprojAssemblyReference.cache
+D:\Cours\Cours fondamentaux\TP1\examples\obj\Debug\netcoreapp3.0\examples.AssemblyInfoInputs.cache
+D:\Cours\Cours fondamentaux\TP1\examples\obj\Debug\netcoreapp3.0\examples.AssemblyInfo.cs
+D:\Cours\Cours fondamentaux\TP1\examples\obj\Debug\netcoreapp3.0\examples.dll
+D:\Cours\Cours fondamentaux\TP1\examples\obj\Debug\netcoreapp3.0\examples.pdb
