@@ -25,3 +25,24 @@ Les interactions joueurs (choix du coup, affichage du plateau de jeu) doivent ê
 Comment je matérialise le plateau de jeu?
 
 Résoudre d'abord le problème par un sens (horizontal, vertical) avant d'implémenter les autres sens.
+
+## Exemple de flux possible
+
+``` bash
+| | | | | | | |
+| | | | | | | |
+|0| | | | | | |
+|0| | | | | | |
+|0| | | | | | |
+|X| |X|X| | | |
+Quel coup joue joueur 1?
+2
+
+| | | | | | | |
+| | | | | | | |
+|0| | | | | | |
+|0| | | | | | |
+|0| | | | | | |
+|X|X|X|X| | | |
+Joueur 1 à gagner
+```
