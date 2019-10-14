@@ -7,5 +7,5 @@
 **/node_modules
 **/wwwroot/node_modules
 
-
+**/.vs
 # End of https://www.gitignore.io/api/dotnetcore
