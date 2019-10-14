@@ -5,7 +5,7 @@ namespace LoggerClass
     using System.IO;
     using Microsoft.Extensions.Configuration;
 
-    public class Logger
+    public class Logger : ILogger
     {
         public string DateFormat { get; set; }
         public Logger(){
