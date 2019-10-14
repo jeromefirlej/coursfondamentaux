@@ -23,5 +23,28 @@ Vous pourrez utiliser la fonction `WriteLine` pour écrire vos logs
         }
     }
 ```
-2. Utilisez ConfigurationManager.AppSettings["maClef"]; du namespace System.Configuration pour permettre à l’utilisateur du composant de configurer le préfixe du fichier et son emplacement
+2. Ajouter de la configuration au projet en utilisant les nuget
+```
+dotnet add package Microsoft.Extensions.Configuration
+dotnet add package Microsoft.Extensions.Configuration.FileExtensions
+dotnet add package Microsoft.Extensions.Configuration.Json
+```
+
+La configuration sera stocké dans le fichier `appsettings.json` sous la forme
+```
+{
+    "maClef" : "ma valeur"
+}
+```
+
+On pourra charger la configuration grace au code
+```
+IConfiguration config = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json")
+                .Build();
+
+string maClef = config.GetSection("maClef").Value;
+```
+
 
