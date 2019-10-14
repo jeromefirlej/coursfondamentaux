@@ -4,7 +4,7 @@
 *	Créer un composant pour loguer les comportements de mon application.
 
 ## Énonce :
-1. Ecrivez un composant Logger, qui aura (au minimum) :
+### 1. Ecrivez un composant Logger, qui aura (au minimum) :
     *	Une interface ILogger définissant les méthodes LogInfo(string message) et LogError(string error)
     *	Une classe Logger implémentant ILogger
 
@@ -23,7 +23,9 @@ Vous pourrez utiliser la fonction `WriteLine` pour écrire vos logs
         }
     }
 ```
-2. Ajouter de la configuration au projet en utilisant les nuget
+### 2. Je dois pouvoir configurer mon composant pour pouvoir définir le répertoire de log et le format attendue pour les dates.
+   
+On utilisera les nuget
 ```
 dotnet add package Microsoft.Extensions.Configuration
 dotnet add package Microsoft.Extensions.Configuration.FileExtensions
