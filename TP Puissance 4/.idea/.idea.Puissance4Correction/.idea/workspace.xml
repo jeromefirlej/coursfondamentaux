@@ -20,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1j5THwPgOS7v2mM4QCM5hPGKDi7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,7 +65,7 @@
       <updated>1603091526040</updated>
       <workItem from="1603091566344" duration="868000" />
       <workItem from="1603092876523" duration="71000" />
-      <workItem from="1603094043268" duration="1271000" />
+      <workItem from="1603094043268" duration="1275000" />
     </task>
     <servers />
   </component>

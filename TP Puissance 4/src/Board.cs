@@ -1,5 +1,4 @@
 using System;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Puissance4
 {
@@ -23,16 +22,14 @@ namespace Puissance4
         public override string ToString()
         {
             string retour = string.Empty;
-
-            for (int i = 0; i < Colonnes.Length; i++)
+            for (int j = 5; j >= 0; j--)
             {
-                var colonne = Colonnes[i];
-
-                for (int j = colonne.Lignes.Length - 1; j >= 0; j--)
+                foreach (var colonne in Colonnes)
                 {
                     string affichage = string.IsNullOrEmpty(colonne.Lignes[j])? " ":colonne.Lignes[j];
                     Console.Write($"|{affichage}");
                 }
+
                 Console.WriteLine('|');
             }
            
