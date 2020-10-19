@@ -8,7 +8,7 @@ namespace Fnac
         public string Titre { get; set; }
         
         // modifiable que dans le constructeur
-        public double Prix { get; }
+        public double Prix { get; protected set; }
 
         public Livre(string auteur, string titre)
         {
