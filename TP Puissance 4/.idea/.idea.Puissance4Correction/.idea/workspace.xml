@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bbd316e-2eaa-43ae-81be-c46ccb63e911" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TP Composant/LoggerClass/Logger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP Composant/LoggerClass/Logger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP Livre/src/Bd.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP Livre/src/Bd.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP Livre/src/Comic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP Livre/src/Comic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP Livre/src/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP Livre/src/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP1/ManipulateirDeChaineG2/ManipulateurDeChaine.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TP1/ManipulateirDeChaineG2/ManipulateurDeChaine.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3/CompteClassG2/Compte.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3/CompteClassG2/Compte.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3/CompteClassG2/CompteEpargne.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3/CompteClassG2/CompteEpargne.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3/CompteClassG2/ComptePayant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3/CompteClassG2/ComptePayant.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3/CompteClassG2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3/CompteClassG2/Program.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j5THwPgOS7v2mM4QCM5hPGKDi7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Puissance4" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/Puissance4.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bbd316e-2eaa-43ae-81be-c46ccb63e911" name="Default Changelist" comment="" />
+      <created>1603091526040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603091526040</updated>
+      <workItem from="1603091566344" duration="868000" />
+      <workItem from="1603092876523" duration="71000" />
+      <workItem from="1603094043268" duration="1271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+</project>
