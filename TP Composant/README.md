@@ -4,7 +4,7 @@
 *	Créer un composant pour loguer les comportements de mon application.
 *   Créér un projet qui utilisera ce composant pour le tester
 
-!["Structure logger"](./structure.png "Structure logger")
+!["Structure logger"](./structure.PNG "Structure logger")
 
 ## Énonce :
 ### 1. Ecrivez un composant Logger, qui aura (au minimum) :
