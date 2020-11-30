@@ -1,13 +1,13 @@
 using System;
 
-namespace Puissance4
+namespace Puissance4.Plateau
 {
-    public class Board
+    public class Board : IBoard
     {
-        public Colonne[] Colonnes { get; }
+        public IColonne[] Colonnes { get; }
         public  Board()
         {
-            Colonnes = new[]
+            Colonnes = new IColonne[]
             {
                 new Colonne(),
                 new Colonne(),
@@ -22,18 +22,23 @@ namespace Puissance4
         public override string ToString()
         {
             string retour = string.Empty;
-            for (int j = 5; j >= 0; j--)
+
+            for (int j = 0; j < 6; j++)
             {
+                string line = string.Empty;
                 foreach (var colonne in Colonnes)
                 {
-                    string affichage = string.IsNullOrEmpty(colonne.Lignes[j])? " ":colonne.Lignes[j];
-                    Console.Write($"|{affichage}");
+                    line += "|" + colonne.ShowValue(j);
                 }
-
-                Console.WriteLine('|');
+                line += "|";
+                retour = $"{line}\n{retour}";
             }
-           
             return retour;
+        }
+        
+        public void Joue(int colonneId, string symbole)
+        {
+            Colonnes[colonneId-1].Enqueue(symbole);
         }
     }
 }

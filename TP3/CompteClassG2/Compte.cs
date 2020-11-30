@@ -1,34 +1,40 @@
 namespace CompteClass{
     using System;
     using System.Globalization;
-    public class Compte{
+
+    public class Compte : ICompte{
         private static uint NumCompteCache = 0;
         private uint numeroCompte;
         protected double solde;
         public Compte() : this(0)
         {
-            
         }
 
         public Compte(double soldeInitiale)
         {
             numeroCompte = NumCompteCache++;
-            solde = soldeInitiale;
+            this.solde = soldeInitiale;
         }
-        
-        public virtual void Depot(double montant){
+
+
+
+        public virtual void Deposer(double montant)
+        {
             solde += montant;
         }
 
-        public virtual void Retrait(double montant){
+        public virtual void Retirer(double montant)
+        {
             solde -= montant;
         }
 
-        public override string ToString()
-        {
-            CultureInfo culture = CultureInfo.CreateSpecificCulture("fr-FR");
-            return "Votre solde est de :"+ solde.ToString("C", culture);
-        }
+
+        public override string ToString ()
+{
+    string phrase = "votre solde est égal à : ";
+    return(phrase + solde + " euros");
+}
+       
 
     }
 }

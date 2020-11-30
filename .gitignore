@@ -8,4 +8,7 @@
 **/wwwroot/node_modules
 
 **/.vs
+**/.idea
+*.zip
+*.pdf
 # End of https://www.gitignore.io/api/dotnetcore

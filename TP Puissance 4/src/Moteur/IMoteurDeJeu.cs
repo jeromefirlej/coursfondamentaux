@@ -1,9 +1,9 @@
-namespace Puissance4
+namespace Puissance4.Moteur
 {
     public interface IMoteurDeJeu
     {
         void Jouer(int colonneNumber);
-        string QuiAGagner();
+        (bool,string) QuiAGagner();
         string QuiJoue();
         string Affichage();
     }

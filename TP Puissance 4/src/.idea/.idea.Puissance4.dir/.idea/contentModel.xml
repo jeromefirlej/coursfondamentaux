@@ -3,12 +3,14 @@
   <component name="ContentModelStore">
     <e p="C:\Users\tinta\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\tinta\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="D:\Cours\2020-2021\Puissance4\src" t="IncludeRecursive">
+    <e p="D:\Cours\Cours fondamentaux\TP Puissance 4\src" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
-      <e p="Board.cs" t="Include" />
-      <e p="Colonne.cs" t="Include" />
-      <e p="IMoteurDeJeu.cs" t="Include" />
-      <e p="MoteurDeJeu.cs" t="Include" />
+      <e p="Moteur" t="Include">
+        <e p="IMoteurDeJeu.cs" t="Include" />
+        <e p="IResolver.cs" t="Include" />
+        <e p="MoteurDeJeu.cs" t="Include" />
+        <e p="Resolver.cs" t="Include" />
+      </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.1" t="Include">
@@ -17,6 +19,12 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="Plateau" t="Include">
+        <e p="Board.cs" t="Include" />
+        <e p="Colonne.cs" t="Include" />
+        <e p="IBoard.cs" t="Include" />
+        <e p="IColonne.cs" t="Include" />
+      </e>
       <e p="Player" t="Include">
         <e p="IJoueur.cs" t="Include" />
         <e p="Joueur.cs" t="Include" />

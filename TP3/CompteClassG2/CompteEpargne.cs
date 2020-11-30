@@ -1,21 +1,13 @@
 namespace CompteClass{
-    public class CompteEpargne : Compte{
-        private int tauxInteret;
+    public class CompteEpargne:Compte{
+        private double taux_interet = 0.06;
 
-        public CompteEpargne(): this(0){
 
-        }
-        public CompteEpargne(double soldeInitiale) 
-        : this(soldeInitiale, 6){
-        }
-
-        public CompteEpargne(double soldeInitiale, int tauxInteret) 
-        : base(soldeInitiale){
-            this.tauxInteret = tauxInteret;
-        }
-
-        public void calculInteret(){
-            solde += (solde * tauxInteret)/100; 
+        public void Calcul_Interet()
+        {
+            solde=solde*taux_interet+solde;
         }
     }
+
+    
 }

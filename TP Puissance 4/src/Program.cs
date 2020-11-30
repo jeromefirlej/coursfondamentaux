@@ -1,4 +1,5 @@
 ﻿using System;
+using Puissance4.Moteur;
 using Puissance4.Player;
 
 namespace Puissance4
@@ -18,8 +19,10 @@ namespace Puissance4
                 string joueur2Name = Console.ReadLine();
                 joueur2 = new Joueur2(joueur2Name);
                 
-                MoteurDeJeu moteur = new MoteurDeJeu(joueur1,joueur2);
-                while (moteur.QuiAGagner() == string.Empty)
+                IMoteurDeJeu moteur = new MoteurDeJeu(joueur1,joueur2);
+                bool jaiUnGagnant = false;
+                string nomGagnant = string.Empty;
+                while (!jaiUnGagnant)
                 {
                     //Afficher board
                     Console.WriteLine(moteur.Affichage());
@@ -30,8 +33,10 @@ namespace Puissance4
                     //Joue
                     string numColonne = Console.ReadLine();
                     moteur.Jouer( int.Parse(numColonne));
+                    (jaiUnGagnant, nomGagnant) = moteur.QuiAGagner();
                 }
-                Console.WriteLine($"{moteur.QuiAGagner()} a gagné");
+                Console.WriteLine(moteur.Affichage());
+                Console.WriteLine($"{nomGagnant} a gagné");
                 
                 Console.WriteLine("Voulez-vous rejouez ? (y/N)");
                 if (Console.ReadLine().ToLowerInvariant() != "y")

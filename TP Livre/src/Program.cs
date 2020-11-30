@@ -12,7 +12,19 @@ namespace Fnac
             {
                 panier.Livres.Add(livre);
             }
-
+            
+            ILivre manga = new Manga("???", "Naruto");
+            panier.Livres.Add(manga);
+            
+            ILivre roman = new Roman("Philip K. Dick", "Minority Report");
+            panier.Livres.Add(roman);
+            
+            ILivre comic = new Comic("Frank Miller", "Batman");
+            panier.Livres.Add(comic);
+            
+            ILivre bd = new Bd("Mobius", "L'incal");
+            panier.Livres.Add(bd);
+            
             Console.WriteLine(panier.Affichage());
         }
     }
