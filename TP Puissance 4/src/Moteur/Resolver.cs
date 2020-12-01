@@ -31,6 +31,7 @@ namespace Puissance4.Moteur
                         indexLigne++;
                         indexColonne++;
                     }
+                    count = 0;
                 }
             }
             return false;
@@ -55,6 +56,7 @@ namespace Puissance4.Moteur
                         indexLigne--;
                         indexColonne++;
                     }
+                    count = 0;
                 }
             }
             return false;
@@ -73,6 +75,7 @@ namespace Puissance4.Moteur
                         return true;
                     }
                 }
+                count =0;
             }
             return false;
         }
@@ -90,13 +93,13 @@ namespace Puissance4.Moteur
                         return true;
                     }
                 }
+                count = 0;
             }
             return false;
         }
 
         private static int NouvelleValeurCount(int count, int boardIndex, int colonneIndex, string symbole, IColonne[] board)
         {
-
             if (board[boardIndex].ShowValue(colonneIndex) == symbole)
             {
                 return count + 1;

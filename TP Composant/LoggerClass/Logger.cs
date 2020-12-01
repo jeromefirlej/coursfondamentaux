@@ -3,7 +3,6 @@
 namespace LoggerClass
 {
     using System.IO;
-    using Microsoft.Extensions.Configuration;
 
     public class Logger : ILogger
     {

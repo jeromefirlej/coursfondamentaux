@@ -26,7 +26,7 @@ namespace Puissance4.Moteur
             _joueurCourant = _joueurCourant == _joueur1 ? _joueur2 : _joueur1;
         }
 
-        public (bool,string) QuiAGagner()
+        public (bool aGagner,string nomGagnant) QuiAGagner()
         {
             if (_resolver.JoueurGagne(_joueur1.Symbole, _board))
             {

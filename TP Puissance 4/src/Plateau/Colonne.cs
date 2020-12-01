@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace Puissance4
@@ -14,6 +15,8 @@ namespace Puissance4
         
         public void Enqueue(string value)
         {
+            if(Lignes.Count == 6)
+                throw new ArgumentOutOfRangeException("La ligne est pleine");
             Lignes.Enqueue(value);
         }
 
